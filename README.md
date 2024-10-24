@@ -1,21 +1,7 @@
-Python for Data Science: Session 1 - Introduction
-Description
-Session 1 provides an introduction to Python for data science, focusing on fundamental programming concepts. The session covers:
+To add the information for Session 4 to the README file, here’s an updated version incorporating the details about the new session. I'll include Session 4 at the bottom, following the format used for Session 3:
 
-Basic Python syntax and data types
-Control flow statements (loops, conditionals)
-Simple programming exercises like FizzBuzz to reinforce learning
-This session is designed for beginners to establish a solid foundation in Python.
+---
 
-Python for Data Science: Session 2 - Intermediate Topics
-Description
-Session 2 builds on the basics, introducing more advanced programming techniques and data handling. The topics include:
-
-Problem-solving with Python (e.g., exercises like FizzBuzz)
-Deeper exploration of data structures such as lists, dictionaries, and sets
-Functions and modular programming practices
-Error handling and debugging techniques
-The focus is on enhancing programming skills and preparing for more complex data science tasks.
 # Python for Data Science: Session 3 - Object-Oriented Programming
 
 **Description**  
@@ -77,38 +63,55 @@ This notebook will walk you through fundamental OOP concepts in Python, with exa
   - `pandas` (if applicable in data science-focused sections)
   - Any other standard Python libraries
 
-Python for Data Science: Session 4 - Basic Libraries I
-Description
-Session 4 introduces key Python libraries for data science, focusing on essential functionalities. The session covers:
+## License
 
-Introduction to NumPy for numerical operations
-Overview of SciPy for scientific computing
-Practical examples using built-in libraries: os, glob, and shutil for file handling
-The session emphasizes hands-on learning with examples and exercises.
-
-Usage
-To open the Session 4 notebook, use the following command in Jupyter:
-
-Copy code
-jupyter notebook session_4.ipynb
-This session will guide you through basic library usage in Python for tasks commonly encountered in data science, such as numerical operations and file manipulation.
-
-Features
-Learn to work with:
-NumPy for array and numerical operations
-SciPy for scientific and mathematical functions
-Built-in libraries like os, glob, and shutil for file handling
-Practical exercises to help apply the concepts learned
-Requirements
-Python 3.x
-Jupyter Notebook or Jupyter Lab
-Libraries such as:
-numpy
-scipy
-Standard Python libraries (os, glob, shutil)
-
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
 Created by Iman Sherkat Bazazan.  
 For questions or suggestions, feel free to contact me via [imanshb1379@gmail.com](mailto:imanshb1379@gmail.com).
+
+---
+
+# Python for Data Science: Session 4 - Basic Libraries I
+
+**Description**  
+Session 4 introduces key Python libraries for data science, focusing on essential functionalities. The session covers:
+
+- Introduction to NumPy for numerical operations
+- Overview of SciPy for scientific computing
+- Practical examples using built-in libraries: `os`, `glob`, and `shutil` for file handling
+
+The session emphasizes hands-on learning with examples and exercises.
+
+## Usage
+
+To open the Session 4 notebook, use the following command in Jupyter:
+
+```
+jupyter notebook session_4.ipynb
+```
+
+This session will guide you through basic library usage in Python for tasks commonly encountered in data science, such as numerical operations and file manipulation.
+
+## Features
+
+- Learn to work with:
+  - NumPy for array and numerical operations
+  - SciPy for scientific and mathematical functions
+  - Built-in libraries like `os`, `glob`, and `shutil` for file handling
+- Practical exercises to help apply the concepts learned
+
+## Requirements
+
+- Python 3.x
+- Jupyter Notebook or Jupyter Lab
+- Libraries such as:
+  - `numpy`
+  - `scipy`
+  - Standard Python libraries (`os`, `glob`, `shutil`)
+
+---
+
+The updated README now includes information for Session 4, formatted to match the existing structure. Let me know if there are any other changes you'd like to make!
