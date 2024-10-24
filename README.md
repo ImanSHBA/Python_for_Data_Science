@@ -1,6 +1,3 @@
-## Table of sessions
-1.[Python for Data Science: Session 3 - Object-Oriented Programming](#Python for Data Science: Session 3 - Object-Oriented Programming)
-2.[Python for Data Science: Session 4 - Basic Libraries I](#Python for Data Science: Session 4 - Basic Libraries I)
 # Python for Data Science: Session 3 - Object-Oriented Programming
 
 **Description**  
