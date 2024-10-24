@@ -12,25 +12,6 @@ This notebook provides an introduction to Object-Oriented Programming (OOP) conc
 
 These concepts are explained in the context of data science programming paradigms.
 
-## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Features](#features)
-4. [Requirements](#requirements)
-5. [Contributing](#contributing)
-
-## Installation
-
-To run this notebook, ensure that you have Jupyter Notebook or Jupyter Lab installed, along with Python and the necessary libraries. You can clone the repository and install the dependencies with the following steps:
-
-```
-git clone https://github.com/username/repo-name.git
-cd repo-name
-pip install -r requirements.txt
-```
-
-Alternatively, you can run the notebook in any Python environment that supports Jupyter Notebooks.
-
 ## Usage
 
 Open the notebook in Jupyter:
