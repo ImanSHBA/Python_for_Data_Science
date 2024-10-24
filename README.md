@@ -19,8 +19,6 @@ These concepts are explained in the context of data science programming paradigm
 3. [Features](#features)
 4. [Requirements](#requirements)
 5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
 
 ## Installation
 
@@ -62,15 +60,6 @@ This notebook will walk you through fundamental OOP concepts in Python, with exa
   - `numpy`
   - `pandas` (if applicable in data science-focused sections)
   - Any other standard Python libraries
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-
-Created by Iman Sherkat Bazazan.  
-For questions or suggestions, feel free to contact me via [imanshb1379@gmail.com](mailto:imanshb1379@gmail.com).
 
 ---
 
