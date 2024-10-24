@@ -101,6 +101,7 @@ This session will guide you through basic library usage in Python for tasks comm
   - `scipy`
   - Standard Python libraries (`os`, `glob`, `shutil`)
 
----
+## Contact
 
-The updated README now includes information for Session 4, formatted to match the existing structure. Let me know if there are any other changes you'd like to make!
+Created by Iman Sherkat Bazazan.  
+For questions or suggestions, feel free to contact me via [imanshb1379@gmail.com](mailto:imanshb1379@gmail.com).
