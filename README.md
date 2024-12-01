@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-# Python for Data Science: Session 6 - Pandas Library I
-=======
 # Python for Data Science: Session 8 - Plotting
->>>>>>> Stashed changes
 
 ## Contact
 
