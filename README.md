@@ -27,30 +27,6 @@ Applying Seaborn's color palettes and themes for polished visuals.
 
 ---
 
-# Session 8: Advanced Data Analysis with Python
-
-## Contents
-<<<<<<< Updated upstream
-Netflix Data Analysis:
-Handles missing data
-Analyzes production counts by year and country
-Computes statistics to gain insights into Netflix's content trends.
-Titanic Data Analysis:
-Calculates survival rates based on gender and class
-Summarizes passenger demographics
-Uses groupby operations and filters for in-depth survival analysis.
-Data Files
-The notebook uses two primary datasets:
-
-1. netflix_titles.csv: Contains metadata for Netflix movies and TV shows.
-2. train_and_test2.csv: Modified Titanic dataset with passenger details and survival status.
-=======
-This notebook explores advanced data analysis concepts using Python and Pandas. The key topics covered include:
-
-
----
-
->>>>>>> Stashed changes
 ## Requirements
 
 To run this notebook successfully, ensure the following dependencies are installed:
