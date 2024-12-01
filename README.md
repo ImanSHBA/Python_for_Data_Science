@@ -1,4 +1,4 @@
-# Python for Data Science: Session 6 - Pandas Library II
+# Python for Data Science: Session 7 - Pandas Library II
 
 ## Contact
 
