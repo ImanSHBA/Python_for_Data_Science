@@ -15,9 +15,9 @@ For questions or suggestions, feel free to contact me via [imanshb1379@gmail.com
 ---
 
 ### 2. **Series**
-    - Element-wise operations.
-    - String manipulations.
-    - Aggregations and statistical methods.
+   - Element-wise operations.
+   - String manipulations.
+   - Aggregations and statistical methods.
 
 ---
 
